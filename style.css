@@ -1,0 +1,105 @@
+body{
+    background-color: #FEE8B0;  
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    padding: 10px;
+}
+.header table {
+    width: 100%;
+}
+.header table img {
+    border-radius: 50%;
+}
+.personal-info{
+    padding: 10px;
+    border-radius: 1%; 
+    background-color: #F97B22; 
+    font-size: 20px;
+}
+.personal-info table {
+    width: 100%;
+}
+.personal-info table td{
+    width: 50%;
+}
+.container{
+    display: flex;
+}
+.container-left{
+    width: 50%;
+    height: auto;
+}
+.education{
+    padding-left: 10px;
+}
+.college-name{
+    font-weight: 400;
+}
+.Completed-year{
+    font-size:small;
+}
+.education .btech{
+    margin-left: 60%; 
+    font-size: small;
+}
+.education .school{
+    margin-left: 58%; 
+    font-size: small;
+}
+.projects {
+    padding-left: 10px;
+}
+.projects p {
+    margin-block-end: 0%;
+}
+.projects ul {
+    margin-block-start: 0%;
+}
+.languages {
+    padding-left: 10px;
+}
+.languages p {
+    width: 50%;
+    margin-block-start: 0%;
+}
+.languages .left{
+    float: left;
+}
+.languages .right{
+    float: right;
+}
+.languages p span {
+    font-size: small;
+}
+.container-right{
+    height:auto; 
+    width: 50%; 
+}
+.skills {
+    height: auto; 
+    padding-left: 10px;
+}
+.links {
+    padding-left: 10px;
+}
+.courses {
+    padding-left: 10px;
+}
+.courses span {
+    font-weight: 400;
+}
+.intrests{
+    padding-left: 10px;
+}
+.intrests p {
+    width: 50%;
+    margin-block-start: 0%;
+}
+.intrests .i-left{
+    float: left;
+}
+.intrests .i-right{
+    float: right;
+}
